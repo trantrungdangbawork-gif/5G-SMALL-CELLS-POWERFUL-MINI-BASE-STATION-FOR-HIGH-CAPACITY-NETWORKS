@@ -39,8 +39,4 @@ The report discusses Small Cell deployment in crowded environments such as shopp
 ---
 
 
-## Author
 
-Dang Ba Tran Trung
-VNUHCM – University of Science
-Electronics and Telecommunications Engineering
